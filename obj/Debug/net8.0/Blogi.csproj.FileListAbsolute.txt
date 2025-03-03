@@ -28,3 +28,4 @@ C:\Users\barte\Desktop\.Net\blogi\obj\Debug\net8.0\refint\Blogi.dll
 C:\Users\barte\Desktop\.Net\blogi\obj\Debug\net8.0\Blogi.pdb
 C:\Users\barte\Desktop\.Net\blogi\obj\Debug\net8.0\Blogi.genruntimeconfig.cache
 C:\Users\barte\Desktop\.Net\blogi\obj\Debug\net8.0\ref\Blogi.dll
+C:\Users\barte\Desktop\.Net\blogi\obj\Debug\net8.0\Blogi.sourcelink.json
